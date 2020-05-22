@@ -1,7 +1,7 @@
 {
   "name": "message-lambda",
   "version": "1.0.0",
-  "description": "Riby message lambda",
+  "description": "Lambda function that consume message from from an sqs queue for delivery of emails with mailjet and sms with ebulksms",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
